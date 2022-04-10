@@ -1,0 +1,36 @@
+There are 28 section headers, starting at offset 0x62e0:
+
+Section Headers:
+  [Nr] Name              Type            Addr     Off    Size   ES Flg Lk Inf Al
+  [ 0]                   NULL            00000000 000000 000000 00      0   0  0
+  [ 1] .interp           PROGBITS        08048134 000134 000013 00   A  0   0  1
+  [ 2] .note.ABI-tag     NOTE            08048148 000148 000020 00   A  0   0  4
+  [ 3] .note.gnu.build-i NOTE            08048168 000168 000024 00   A  0   0  4
+  [ 4] .hash             HASH            0804818c 00018c 000170 04   A  6   0  4
+  [ 5] .gnu.hash         GNU_HASH        080482fc 0002fc 000034 04   A  6   0  4
+  [ 6] .dynsym           DYNSYM          08048330 000330 000350 10   A  7   1  4
+  [ 7] .dynstr           STRTAB          08048680 000680 000240 00   A  0   0  1
+  [ 8] .gnu.version      VERSYM          080488c0 0008c0 00006a 02   A  6   0  2
+  [ 9] .gnu.version_r    VERNEED         0804892c 00092c 000080 00   A  7   1  4
+  [10] .rel.dyn          REL             080489ac 0009ac 000028 08   A  6   0  4
+  [11] .rel.plt          REL             080489d4 0009d4 000178 08   A  6  13  4
+  [12] .init             PROGBITS        08048b4c 000b4c 000030 00  AX  0   0  4
+  [13] .plt              PROGBITS        08048b7c 000b7c 000300 04  AX  0   0  4
+  [14] .text             PROGBITS        08048e80 000e80 003c9c 00  AX  0   0 16
+  [15] .fini             PROGBITS        0804cb1c 004b1c 00001c 00  AX  0   0  4
+  [16] .rodata           PROGBITS        0804cb40 004b40 000dd0 00   A  0   0 32
+  [17] .eh_frame         PROGBITS        0804d910 005910 000004 00   A  0   0  4
+  [18] .ctors            PROGBITS        0804ef0c 005f0c 000008 00  WA  0   0  4
+  [19] .dtors            PROGBITS        0804ef14 005f14 000008 00  WA  0   0  4
+  [20] .jcr              PROGBITS        0804ef1c 005f1c 000004 00  WA  0   0  4
+  [21] .dynamic          DYNAMIC         0804ef20 005f20 0000d0 08  WA  7   0  4
+  [22] .got              PROGBITS        0804eff0 005ff0 000004 04  WA  0   0  4
+  [23] .got.plt          PROGBITS        0804eff4 005ff4 0000c8 04  WA  0   0  4
+  [24] .data             PROGBITS        0804f0c0 0060c0 000130 00  WA  0   0 32
+  [25] .bss              NOBITS          0804f200 0061f0 00002c 00  WA  0   0 32
+  [26] .gnu_debuglink    PROGBITS        00000000 0061f0 00000c 00      0   0  1
+  [27] .shstrtab         STRTAB          00000000 0061fc 0000e4 00      0   0  1
+Key to Flags:
+  W (write), A (alloc), X (execute), M (merge), S (strings)
+  I (info), L (link order), G (group), T (TLS), E (exclude), x (unknown)
+  O (extra OS processing required) o (OS specific), p (processor specific)

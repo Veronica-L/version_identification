@@ -1,0 +1,127 @@
+2022-03-15 03:03:15,610 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-15 03:03:20,438 - slice - INFO - [p] function size:336
+2022-03-15 04:37:42,689 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-15 04:37:47,485 - slice - INFO - [p] function size:336
+2022-03-15 04:38:15,586 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-15 04:38:20,450 - slice - INFO - [p] function size:336
+2022-03-15 04:45:50,788 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-15 04:45:55,547 - slice - INFO - [p] function size:336
+2022-03-15 04:46:17,026 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-15 04:46:21,784 - slice - INFO - [p] function size:336
+2022-03-15 22:20:33,684 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-15 22:20:38,511 - slice - INFO - [p] function size:336
+2022-03-15 22:33:44,426 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-15 22:33:49,339 - slice - INFO - [p] function size:336
+2022-03-15 22:34:13,861 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-15 22:34:18,736 - slice - INFO - [p] function size:336
+2022-03-15 22:35:30,942 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-15 22:35:35,784 - slice - INFO - [p] function size:336
+2022-03-15 22:36:20,300 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-15 22:36:25,061 - slice - INFO - [p] function size:336
+2022-03-15 22:56:18,703 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-15 22:56:23,626 - slice - INFO - [p] function size:336
+2022-03-15 23:06:26,812 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-15 23:06:31,571 - slice - INFO - [p] function size:336
+2022-03-15 23:12:47,538 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-15 23:12:52,397 - slice - INFO - [p] function size:336
+2022-03-15 23:13:14,826 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-15 23:13:19,722 - slice - INFO - [p] function size:336
+2022-03-15 23:18:42,343 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-15 23:18:47,141 - slice - INFO - [p] function size:336
+2022-03-15 23:19:44,342 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-15 23:19:49,214 - slice - INFO - [p] function size:336
+2022-03-16 01:49:53,915 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-16 01:49:58,742 - slice - INFO - [p] function size:336
+2022-03-16 01:50:38,743 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-16 01:50:43,513 - slice - INFO - [p] function size:336
+2022-03-16 01:54:00,323 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-16 01:54:05,049 - slice - INFO - [p] function size:336
+2022-03-16 02:10:01,737 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-16 02:10:06,586 - slice - INFO - [p] function size:336
+2022-03-17 01:51:21,301 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 01:51:26,093 - slice - INFO - [p] function size:336
+2022-03-17 01:51:51,927 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 01:51:56,729 - slice - INFO - [p] function size:336
+2022-03-17 02:04:40,778 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 02:04:45,561 - slice - INFO - [p] function size:336
+2022-03-17 02:04:58,502 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 02:05:03,348 - slice - INFO - [p] function size:336
+2022-03-17 02:05:37,151 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 02:05:41,987 - slice - INFO - [p] function size:336
+2022-03-17 02:12:09,103 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 02:12:13,843 - slice - INFO - [p] function size:336
+2022-03-17 02:14:24,598 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 02:14:29,393 - slice - INFO - [p] function size:336
+2022-03-17 02:15:54,815 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 02:15:59,552 - slice - INFO - [p] function size:336
+2022-03-17 02:35:22,057 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 02:35:26,786 - slice - INFO - [p] function size:336
+2022-03-17 02:42:39,767 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 02:42:44,582 - slice - INFO - [p] function size:336
+2022-03-17 02:47:04,221 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 02:47:09,050 - slice - INFO - [p] function size:336
+2022-03-17 03:52:55,494 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 03:53:00,318 - slice - INFO - [p] function size:336
+2022-03-17 03:53:00,442 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-17 04:37:33,955 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 04:37:38,760 - slice - INFO - [p] function size:336
+2022-03-17 04:37:38,890 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-17 04:44:49,367 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 04:44:54,415 - slice - INFO - [p] function size:336
+2022-03-17 04:44:54,551 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-17 04:54:49,568 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 04:54:54,490 - slice - INFO - [p] function size:336
+2022-03-17 04:54:54,622 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-17 04:59:25,665 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 04:59:30,439 - slice - INFO - [p] function size:336
+2022-03-17 04:59:30,561 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-17 05:01:59,239 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 05:02:04,069 - slice - INFO - [p] function size:336
+2022-03-17 05:02:04,191 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-17 05:05:53,027 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 05:05:57,827 - slice - INFO - [p] function size:336
+2022-03-17 05:05:57,948 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-17 07:11:56,911 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 07:12:01,760 - slice - INFO - [p] function size:336
+2022-03-17 07:12:01,880 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-17 07:26:01,604 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-17 07:26:06,377 - slice - INFO - [p] function size:336
+2022-03-17 07:26:06,499 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-17 07:26:06,630 - slice - INFO - [success!] find the string block!
+2022-03-21 21:30:56,965 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-21 21:31:01,808 - slice - INFO - [p] function size:336
+2022-03-21 21:31:01,818 - slice - ERROR - 	[!] the address of state 0x804d4b0 mismatch with the path, stop the execution
+2022-03-21 21:34:30,161 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-21 21:34:34,887 - slice - INFO - [p] function size:336
+2022-03-21 21:34:34,896 - slice - ERROR - 	[!] the address of state 0x804d4b0 mismatch with the path, stop the execution
+2022-03-21 21:37:17,785 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-21 21:37:22,649 - slice - INFO - [p] function size:336
+2022-03-21 21:37:22,773 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-21 21:37:22,909 - slice - INFO - [success!] find the string block!
+2022-03-21 21:40:17,226 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-21 21:40:22,052 - slice - INFO - [p] function size:336
+2022-03-21 21:40:22,175 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-21 21:40:22,309 - slice - INFO - [success!] find the string block!
+2022-03-22 05:15:21,548 - slice - INFO - [*] Constructing CFG for netstat. It may take long time.
+2022-03-22 05:15:26,280 - slice - INFO - [p] function size:336
+2022-03-22 05:15:26,409 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-22 05:15:26,548 - slice - INFO - [success!] find the string block!
+2022-03-22 07:47:31,282 - slice - INFO - [p] function size:336
+2022-03-22 07:47:31,404 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-22 07:47:31,973 - slice - INFO - [p] function size:336
+2022-03-22 07:47:32,081 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-22 07:47:32,334 - slice - INFO - [p] function size:336
+2022-03-22 07:47:32,441 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-22 07:47:32,695 - slice - INFO - [p] function size:336
+2022-03-22 07:47:32,809 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-22 07:47:33,064 - slice - INFO - [p] function size:336
+2022-03-22 07:47:33,168 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-22 07:47:33,887 - slice - INFO - [p] function size:336
+2022-03-22 07:47:33,994 - slice - WARNING - No function name founded in addr 0x804ffd0
+2022-03-22 07:47:34,125 - slice - INFO - [success!] find the string block!
+2022-03-23 02:54:29,136 - slice - INFO - [p] function size:242
+2022-03-23 02:54:29,145 - slice - ERROR - 	[!] the address of state 0x804d4b0 mismatch with the path, stop the execution
+2022-03-23 02:54:29,154 - slice - INFO - [p] function size:242
+2022-03-23 02:54:29,161 - slice - ERROR - 	[!] the address of state 0x804d4b0 mismatch with the path, stop the execution
+2022-04-06 04:15:15,583 - slice - INFO - [p] function size:95
+2022-04-06 04:15:15,613 - slice - ERROR - 	[!] the address of state 0x804d4b0 mismatch with the path, stop the execution

@@ -1,0 +1,146 @@
+
+String dump of section '.rodata':
+  [     8]  Try `%s --help' for more information.^J
+  [    30]  Usage: %s [OPTION]... [OWNER][:[GROUP]] FILE...^J  or:  %s [OPTION]... --reference=RFILE FILE...^J
+  [    94]  Change the owner and/or group of each FILE to OWNER and/or GROUP.^JWith --reference, change the owner and group of each FILE to those of RFILE.^J^J  -c, --changes          like verbose but report only when a change is made^J      --dereference      affect the referent of each symbolic link (this is^J                         the default), rather than the symbolic link itself^J
+  [   20c]    -h, --no-dereference   affect each symbolic link instead of any referenced^J                         file (useful only on systems that can change the^J                         ownership of a symlink)^J
+  [   2d8]        --from=CURRENT_OWNER:CURRENT_GROUP^J                         change the owner and/or group of each file only if^J                         its current owner and/or group match those specified^J                         here.  Either may be omitted, in which case a match^J                         is not required for the omitted attribute.^J
+  [   430]        --no-preserve-root  do not treat `/' specially (the default)^J      --preserve-root    fail to operate recursively on `/'^J
+  [   4b0]    -f, --silent, --quiet  suppress most error messages^J      --reference=RFILE  use RFILE's owner and group rather than^J                         specifying OWNER:GROUP values^J  -R, --recursive        operate on files and directories recursively^J  -v, --verbose          output a diagnostic for every file processed^J^J
+  [   5ec]  The following options modify how a hierarchy is traversed when the -R^Joption is also specified.  If more than one is specified, only the final^Jone takes effect.^J^J  -H                     if a command line argument is a symbolic link^J                         to a directory, traverse it^J  -L                     traverse every symbolic link to a directory^J                         encountered^J  -P                     do not traverse any symbolic links (default)^J^J
+  [   7bc]        --help     display this help and exit^J
+  [   7ec]        --version  output version information and exit^J
+  [   825]  Owner is unchanged if missing.  Group is unchanged if missing, but changed^Jto login group if implied by a `:' following a symbolic OWNER.^JOWNER and GROUP may be numeric as well as symbolic.^J
+  [   8e5]  Examples:^J  %s root /u        Change the owner of /u to "root".^J  %s root:staff /u  Likewise, but also change its group to "staff".^J  %s -hR root /u    Change the owner of /u and subfiles to "root".^J
+  [   9b0]  %s home page: <http://www.gnu.org/software/%s/>^J
+  [   9e4]  General help using GNU software: <http://www.gnu.org/gethelp/>^J
+  [   a24]  Report %s translation bugs to <http://translationproject.org/team/>^J
+  [   a6c]  -R --dereference requires either -H or -L
+  [   a98]  failed to get attributes of %s
+  [   ab8]  Report %s bugs to %s^J
+  [   ace]  bug-coreutils@gnu.org
+  [   ae4]  GNU coreutils
+  [   af2]  /usr/share/locale
+  [   b04]  %s: %s
+  [   b0b]  Jim Meyering
+  [   b18]  David MacKenzie
+  [   b28]  chown
+  [   b2e]  HLPRcfhv
+  [   b37]  missing operand
+  [   b47]  missing operand after %s
+  [   b60]  recursive
+  [   b6a]  changes
+  [   b72]  from
+  [   b77]  no-dereference
+  [   b86]  no-preserve-root
+  [   b97]  quiet
+  [   b9d]  silent
+  [   ba4]  verbose
+  [   bac]  help
+  [   bb1]  version
+  [   bc0]  `:^E^H
+  [   bcc]  R
+  [   bd0]  j:^E^H
+  [   bdc]  c
+  [   be0]  z:^E^H
+  [   bf0]  r:^E^H^A
+  [   c00]  w:^E^H
+  [   c0c]  h
+  [   c11]  :^E^H
+  [   c21]  :^E^H
+  [   c31]  :^E^H
+  [   c3c]  f
+  [   c41]  :^E^H
+  [   c4c]  f
+  [   c50]  |:^E^H^A
+  [   c61]  :^E^H
+  [   c6c]  v
+  [   c71]  :^E^H
+  [   c7c]  ~����:^E^H
+  [   c8c]  }���
+  [   ca0]  fts_read failed
+  [   cb0]  cannot access %s
+  [   cc1]  cannot read directory %s
+  [   cda]  cannot dereference %s
+  [   cf0]  changing ownership of %s
+  [   d09]  changing group of %s
+  [   d1e]  changed group of %s to %s^J
+  [   d39]  no change to ownership of %s^J
+  [   d57]  group of %s retained as %s^J
+  [   d73]  ownership of %s retained^J
+  [   d90]  it is dangerous to operate recursively on %s
+  [   dc0]  it is dangerous to operate recursively on %s (same as %s)
+  [   dfc]  use --no-preserve-root to override this failsafe
+  [   e30]  changed ownership of %s to %s^J
+  [   e50]  failed to change ownership of %s to %s^J
+  [   e78]  failed to change group of %s to %s^J
+  [   e9c]  failed to change ownership of %s^J
+  [   ec0]  ownership of %s retained as %s^J
+  [   ee0]  neither symbolic link %s nor referent has been changed^J
+  [   f30]  (�^D^H��^D^H^N�^D^H^N�^D^HX�^D^H7.4
+  [   f48]  /.libs/
+  [   f50]  lt-
+  [   f55]  Report bugs to <%s>.^J
+  [   f6b]  %s (%s) %s^J
+  [   f77]  %s %s^J
+  [   f7e]  (C)
+  [   f82]  Written by %s.^J
+  [   f92]  Written by %s and %s.^J
+  [   fa9]  Written by %s, %s, and %s.^J
+  [   fc8]  %s home page: <http://www.gnu.org/software/%s/>.^J
+  [   ffc]  General help using GNU software: <http://www.gnu.org/gethelp/>.^J
+  [  1041]  License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.^JThis is free software: you are free to change and redistribute it.^JThere is NO WARRANTY, to the extent permitted by law.^J^J
+  [  110c]  Written by %s, %s, %s,^Jand %s.^J
+  [  112c]  Written by %s, %s, %s,^J%s, and %s.^J
+  [  1150]  Written by %s, %s, %s,^J%s, %s, and %s.^J
+  [  1178]  Written by %s, %s, %s,^J%s, %s, %s, and %s.^J
+  [  11a4]  Written by %s, %s, %s,^J%s, %s, %s, %s,^Jand %s.^J
+  [  11d4]  Written by %s, %s, %s,^J%s, %s, %s, %s,^J%s, and %s.^J
+  [  1208]  Written by %s, %s, %s,^J%s, %s, %s, %s,^J%s, %s, and others.^J
+  [  1244]  {�^D^H��^D^H��^D^H��^D^H��^D^H�^D^H�^D^H��^D^HW�^D^Hi�^D^H
+  [  1280]  Copyright %s %d Free Software Foundation, Inc.
+  [  12af]  write error
+  [  12bb]  ..
+  [  12c5]   
+  [  12cd]  @
+  [  12d5]  `
+  [  12f0]  C
+  [  12f2]  POSIX
+  [  12f8]  # entries:         %lu^J
+  [  1310]  # buckets:         %lu^J
+  [  1328]  max bucket length: %lu^J
+  [  1340]  # buckets used:    %lu (%.2f%%)^J
+  [  136b]  ?��L?���?
+  [  137b]  =fff?��?
+  [  1387]  O
+  [  138b]  B"
+  [  138e]  `
+  [  1390]  '
+  [  1392]  literal
+  [  139a]  shell
+  [  13a0]  shell-always
+  [  13ad]  c-maybe
+  [  13b5]  escape
+  [  13bc]  clocale
+  [  13f0]  8�^D^H��^D^H��^D^H��^D^H^H�^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^H��^D^H��^D^H��^D^H��^D^H��^D^H(�^D^H��^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^Hc�^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^Hh�^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^Hc�^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^Hp�^D^H��^D^Hp�^D^H��^D^H@�^D^H@�^D^H0�^D^H@�^D^H0�^D^H@�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H0�^D^H@�^D^H
+  [  16a1]  B^E^H�B^E^H�B^E^H{G^E^H�B^E^H�B^E^H�9^E^H�B^E^H
+  [  1700]  invalid spec
+  [  170d]  invalid group
+  [  171b]  invalid user
+  [  1729]  F^E^H^MF^E^H^[F^E^Hxstrtol.c
+  [  1740]  0 <= strtol_base && strtol_base <= 36
+  [  1768]  F�^D^H��^D^H��^D^H<�^D^H��^D^H2�^D^H��^D^H��^D^H��^D^H^H�^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H}�^D^H��^D^H��^D^H��^D^H��^D^Hs�^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H2�^D^H��^D^H��^D^H��^D^H^H�^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H��^D^H}�^D^H��^D^H��^D^H_�^D^Hxstrtoul
+  [  1849]  invalid argument: %s
+  [  185e]  memory exhausted
+  [  186f]  cycle-check.c
+  [  187d]  state->magic == 9827862
+  [  1895]  cycle_check
+  [  18a4]   ^G^E^H�^J^E^H^P^I^E^H�^J^E^H�^I^E^H�^G^E^H�^G^E^H�^G^E^H�^G^E^H�^J^E^H@^K^E^H�^K^E^H@^L^E^H�^G^E^H�^G^E^H�^G^E^H�^G^E^H�^G^E^H ^S^E^HH^S^E^H�^N^E^H�^N^E^H0^S^E^H(NULL)
+  [  190c]  p ^E^Hp ^E^H` ^E^H` ^E^H^X ^E^H^X ^E^H^X ^E^H^X ^E^H8 ^E^H8 ^E^H� ^E^H� ^E^H^X ^E^H^X ^E^H� ^E^H� ^E^H^X ^E^H^X ^E^H^X ^E^H^X ^E^H^X ^E^H^X ^E^H(
+  [  1968]  N
+  [  196c]  U
+  [  1970]  L
+  [  1974]  L
+  [  1978]  )
+  [  1981]  #^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H�&^E^H^B#^E^H�&^E^H^B#^E^H�&^E^H�&^E^H�&^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H^B#^E^H�&^E^H^B#^E^H^B#^E^H
+
